@@ -61,13 +61,12 @@ class TextScramble {
 // ——————————————————————————————————————————————————
 
 const phrases = [
-'Neo,',
-'sooner or later',
-'you\'re going to realize',
-'just as I did',
-'that there\'s a difference',
-'between knowing the path',
-'and walking the path'];
+'sen,',
+'çok iyi bir insansın',
+'seni seviyorum.',
+'kendine iyi bak',
+'',
+];
 
 
 const el = document.querySelector('.text');
